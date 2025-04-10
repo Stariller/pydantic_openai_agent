@@ -1,0 +1,37 @@
+(agent) michael@Main-PC:~/Programs/Python/pydantic_practice$ python3 main.py
+Type `quit` to end program.
+Make a request from gemma3:12b.
+> Tell me about airforce hat standards.
+gemma3:12b:
+> Okay, let's break down the Air Force's hat standards, pulling information from the provided document excerpts. It's a surprisingly detailed topic! I'm going to organize it by categories: PTG (Physical Training Gear) hats and then non-PTG (everyday/formal) hats.
+
+**I. Physical Training Gear (PTG) Hats**
+
+*   **General PT:** Installation commanders can authorize solid black, white, or dark blue baseball/sport caps and/or sweatbands with the Air Force symbol or "U.S. Air Force" printed/embroidered. These are for organized or individual PT.
+*   **PT Excellence:** Commanders *may* authorize baseball/sport caps with the words "Excellence for PT," "Excellence in PT," or a combination in small, half-inch-high embroidered letters.  Plain caps are also allowed.
+*   **Restrictions (PTG Hats Generally):**
+    *   No patches.
+    *   No large logos.
+    *   No multi-patterned caps.
+    *   No bandanas or similar headscarves (unless medically waived).
+*   **Cold Weather PTG Hats:**
+    *   *Watch Cap:* Solid black, dark blue, sage green, or coyote brown, no logos.
+    *   *Balaclava:* Solid black, any material; tuck excess material into the PTG shirt.
+
+**II. Non-PTG Hats (Everyday/Formal Wear - Largely Unaddressed in this Document)**
+
+*   The document doesn’t explicitly mention a standard Air Force cap worn with official uniforms (like the blue service uniform or the ABUs). It's likely there *are* prescribed caps for those, but they aren't detailed within these excerpts.
+* **Airmen assigned to non-Air Force organizations**: must wear the Air Force equivalent of the order of dress prescribed. This implies that non-Air Force organizations have dress codes that Airmen follow.
+
+**Key Takeaways & Important Notes**
+
+*   **Commander Discretion:**  A *lot* of the hat authorization falls to the installation or unit commander.  What's allowed can vary.
+*   **Logos & Patches:** Keep them small and tasteful.  "Large logos" are generally prohibited.
+*   **Official Regulations:** This information is based solely on *these excerpts*.  Always refer to the official Air Force Instructions (likely AFI 36-2903 or similar) for the definitive word on uniform regulations.
+
+
+
+To help me give you even more specific information, could you tell me:
+
+*   Are you interested in a particular uniform (e.g., ABUs, Service Dress)?
+*   What rank are you (or are you interested in)?
